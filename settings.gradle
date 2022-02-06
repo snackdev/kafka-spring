@@ -1,0 +1,6 @@
+rootProject.name = 'kafka-spring'
+include 'consumer-boot'
+include 'producer-boot'
+include 'reply-boot'
+include 'request-boot'
+
